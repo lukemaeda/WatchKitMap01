@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0630"
+   version = "2.0">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42431CE61ADA8EE800F20667"
+               BuildableName = "WatchKitMap01 WatchKit App.app"
+               BlueprintName = "WatchKitMap01 WatchKit App"
+               ReferencedContainer = "container:WatchKitMap01.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42431CD91ADA8EE800F20667"
+               BuildableName = "WatchKitMap01 WatchKit Extension.appex"
+               BlueprintName = "WatchKitMap01 WatchKit Extension"
+               ReferencedContainer = "container:WatchKitMap01.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42431CB01ADA8EDC00F20667"
+               BuildableName = "WatchKitMap01.app"
+               BlueprintName = "WatchKitMap01"
+               ReferencedContainer = "container:WatchKitMap01.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42431CE61ADA8EE800F20667"
+            BuildableName = "WatchKitMap01 WatchKit App.app"
+            BlueprintName = "WatchKitMap01 WatchKit App"
+            ReferencedContainer = "container:WatchKitMap01.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES"
+      launchAutomaticallySubstyle = "8"
+      notificationPayloadFile = "WatchKitMap01 WatchKit Extension/PushNotificationPayload.apns">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/WatchKitMap01">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42431CE61ADA8EE800F20667"
+            BuildableName = "WatchKitMap01 WatchKit App.app"
+            BlueprintName = "WatchKitMap01 WatchKit App"
+            ReferencedContainer = "container:WatchKitMap01.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42431CE61ADA8EE800F20667"
+            BuildableName = "WatchKitMap01 WatchKit App.app"
+            BlueprintName = "WatchKitMap01 WatchKit App"
+            ReferencedContainer = "container:WatchKitMap01.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES"
+      launchAutomaticallySubstyle = "8"
+      notificationPayloadFile = "WatchKitMap01 WatchKit Extension/PushNotificationPayload.apns">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/WatchKitMap01">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42431CE61ADA8EE800F20667"
+            BuildableName = "WatchKitMap01 WatchKit App.app"
+            BlueprintName = "WatchKitMap01 WatchKit App"
+            ReferencedContainer = "container:WatchKitMap01.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42431CE61ADA8EE800F20667"
+            BuildableName = "WatchKitMap01 WatchKit App.app"
+            BlueprintName = "WatchKitMap01 WatchKit App"
+            ReferencedContainer = "container:WatchKitMap01.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
